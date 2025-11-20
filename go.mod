@@ -25,8 +25,8 @@ require (
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/arch v0.17.0 // indirect
-	golang.org/x/sys v0.33.0 // indirect
-	golang.org/x/text v0.25.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/text v0.31.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
@@ -50,6 +50,6 @@ require (
 	github.com/stretchr/testify v1.10.0
 	github.com/twmb/murmur3 v1.1.8
 	github.com/wangjia184/sortedset v0.0.0-20220209072355-af6d6d227aa7
-	golang.org/x/crypto v0.38.0
+	golang.org/x/crypto v0.45.0
 	google.golang.org/protobuf v1.36.6
 )
